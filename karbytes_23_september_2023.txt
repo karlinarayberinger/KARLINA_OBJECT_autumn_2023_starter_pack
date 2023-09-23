@@ -1,0 +1,17 @@
+/**
+ * file: karbytes_23_september_2023.txt
+ * type: plain-text
+ * date: 23_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+Last night I stayed up all night drawing a poster which I plan to use to commemorate the finalization of (a) the karbytes-created GitHub repository named KARLINA_OBJECT_autumn_2023_starter_pack, (b) the finalization of the web page named raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack, and (c) the finalization of the web page named M_DISC_karbytes_autumn_2023_data_files_list (and each of those two web pages is part of the karbytes-created website named Karbytes For Life Blog dot WordPress dot Com).
+
+After I finished the aforementioned paper drawing, I photographed it with my Android phone, edited the resulting image, and then uploaded that image to the karbytes-created GitHub repository which contains this note. That image is available to view and to download at the following Uniform Resource Locator:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/karlina_object_autumn_2023_starter_pack_poster.jpg
+
+When the aforementioned tasks labeled (a), (b), and (c) are completed, I plan to upload the aforementioned poster image to my (public) Instagram profile as an image post to signify that those three tasks have been complete to my satisfaction. I expect that milestone Instagram update to occur no within the next 48 hours.
+
+(Also, I ordered another set of three M_DISCs from Amazon dot Com yesterday and was told by Amazon that the package I ordered is expected to arrive by 29_SEPTEMBER_2023. When that package arrives, I plan on burning each of the zip files which are represented by the pseudocode object named files on the web page named M_DISC_karbytes_autumn_2023_data_files_list onto each of the three M_DISCs. After labeling each burned M_DISC container and testing each of those M_DISCs in the DVD optical disc reader to determine whether or not the files were successfully burned onto the disc, I plan on stowing those discs inside of their respective containers inside of the zip-lock compact disc container which currently contains the first three discs I burned with the files listed on the web page named M_DISC_karbytes_2023_data_files_list and keeping that zip-lock container stored in a closed unplugged microwave in my room at the house I currently legally reside at.
